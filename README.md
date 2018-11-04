@@ -1,2 +1,2 @@
-# 17-Modelando_Volatilidades
-MOdelos GARCH Aplicados
+# aula-16
+Dynamic Trading Rights 
